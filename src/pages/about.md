@@ -11,7 +11,7 @@ Cette passion fait partie de mon Ikigai — cette notion japonaise qui représen
 
 ## Ikigai
 
-![ikigai](/assets/ikigai.svg)
+![ikigai](/LabVeilTec/assets/ikigai.svg)
 
 ## Pourquoi ce thème et ce SSG ?
 
