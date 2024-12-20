@@ -126,3 +126,11 @@
     @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
   }
 }
+
+html[data-theme="light"] mark {
+  @apply bg-skin-accent/50;
+}
+
+html[data-theme="dark"] mark {
+  @apply bg-skin-accent/75;
+}
